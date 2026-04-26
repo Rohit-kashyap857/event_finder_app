@@ -87,7 +87,7 @@ Feel free to fork this repo and submit a pull request.
 **Rohit Kashyap**
 
 * GitHub: https://github.com/Rohit-kashyap857
-* Email: [your-email@example.com](mailto:kashyaprohit9214@example.com)
+* Email: [kashyaprohit9214@example.com](mailto:kashyaprohit9214@example.com)
 
 ---
 
