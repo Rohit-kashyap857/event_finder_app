@@ -6,11 +6,9 @@ A modern **Flutter-based Event Finder App** that allows users to discover, explo
 
 ## 🚀 Features
 
-* 🔍 Browse and explore events
 * ❤️ Like / save favorite events
 * 📱 Clean and responsive UI
 * ⚡ Fast performance with optimized state management
-* 🔐 Backend integration (Supabase / API-based)
 * 🧭 Smooth navigation using routing
 
 ---
@@ -33,10 +31,6 @@ A modern **Flutter-based Event Finder App** that allows users to discover, explo
  <img src="assets/data/profile_screen.png" width="250"/>
  <img src="assets/data/setting_screen.png" width="250"/></p>
 
-```
-assets/home.png  
-assets/details.png  
-```
 
 ---
 
@@ -78,23 +72,6 @@ lib/
 
    ```bash
    flutter run
-   ```
-
----
-
-## 🔑 Environment Setup
-
-* Setup Supabase credentials
-* Add API keys (if used)
-
----
-
-## 📈 Future Improvements
-
-* 🔔 Push notifications
-* 🌍 Location-based event filtering
-* 🎟️ Event booking system
-* 🤖 AI-based recommendations
 
 ---
 
@@ -109,8 +86,8 @@ Feel free to fork this repo and submit a pull request.
 
 **Rohit Kashyap**
 
-* GitHub: https://github.com/your-username
-* Email: [your-email@example.com](mailto:your-email@example.com)
+* GitHub: https://github.com/Rohit-kashyap857
+* Email: [your-email@example.com](mailto:kashyaprohit9214@example.com)
 
 ---
 
