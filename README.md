@@ -30,8 +30,8 @@ A modern **Flutter-based Event Finder App** that allows users to discover, explo
 *Add your app screenshots here*
 
 ```
-assets/screenshots/home.png  
-assets/screenshots/details.png  
+assets/home.png  
+assets/details.png  
 ```
 
 ---
