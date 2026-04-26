@@ -1,17 +1,113 @@
-# event_app
+# 📅 Event Finder App
 
-A new Flutter project.
+A modern **Flutter-based Event Finder App** that allows users to discover, explore, and interact with events in a clean and user-friendly interface.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+* 🔍 Browse and explore events
+* ❤️ Like / save favorite events
+* 📱 Clean and responsive UI
+* ⚡ Fast performance with optimized state management
+* 🔐 Backend integration (Supabase / API-based)
+* 🧭 Smooth navigation using routing
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+* **Frontend:** Flutter, Dart
+* **State Management:** Riverpod
+* **Backend:** Supabase
+* **Routing:** Go Router
+* **UI:** Material Design
+
+---
+
+## 📸 Screenshots
+
+*Add your app screenshots here*
+
+```
+assets/screenshots/home.png  
+assets/screenshots/details.png  
+```
+
+---
+
+## 📂 Project Structure
+
+```
+lib/
+│── core/           # Theme, constants, utilities
+│── features/       # App screens (UI)
+│── providers/      # State management
+│── models/         # Data models
+│── services/       # API / backend logic
+│── main.dart       # Entry point
+```
+
+---
+
+## ⚙️ Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/event-finder-app.git
+   ```
+
+2. Navigate to project:
+
+   ```bash
+   cd event-finder-app
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   flutter pub get
+   ```
+
+4. Run the app:
+
+   ```bash
+   flutter run
+   ```
+
+---
+
+## 🔑 Environment Setup
+
+* Setup Supabase credentials
+* Add API keys (if used)
+
+---
+
+## 📈 Future Improvements
+
+* 🔔 Push notifications
+* 🌍 Location-based event filtering
+* 🎟️ Event booking system
+* 🤖 AI-based recommendations
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+Feel free to fork this repo and submit a pull request.
+
+---
+
+## 📧 Contact
+
+**Rohit Kashyap**
+
+* GitHub: https://github.com/your-username
+* Email: [your-email@example.com](mailto:your-email@example.com)
+
+---
+
+⭐ If you like this project, give it a star!
