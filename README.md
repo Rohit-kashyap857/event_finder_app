@@ -27,7 +27,11 @@ A modern **Flutter-based Event Finder App** that allows users to discover, explo
 
 ## 📸 Screenshots
 
- <p align= "center"><img src="assets/data/home.png" width="250"></p>
+ <p align= "center"><img src="assets/data/home.png" width="250"/>
+ <img src="assets/data/details.png" width="250"/>
+ <img src="assets/data/add_event_screen.png" width="250"/>
+ <img src="assets/data/profile_screen.png" width="250"/>
+ <img src="assets/data/setting_screen.png" width="250"/></p>
 
 ```
 assets/home.png  
