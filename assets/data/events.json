@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "title": "Music Concert",
+    "category": "Music",
+    "date": "2026-05-10",
+    "time": "6:00 PM",
+    "location": "Delhi",
+    "imageUrl": "https://picsum.photos/200",
+    "distance": "2 km",
+    "description": "Live concert"
+  },
+  {
+    "id": 2,
+    "title": "Collaboration",
+    "category": "Collab Meeting",
+    "date": "2026-05-10",
+    "time": "5:00 PM",
+    "location": "Puna",
+    "imageUrl": "https://picsum.photos/200",
+    "distance": "4 km",
+    "description": "collab"
+  }
+]
